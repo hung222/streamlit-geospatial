@@ -12,3 +12,5 @@ def load_jupyter_server_extension(nbapp):
             "--server.enableCORS=False",
         ]
     )
+
+    
